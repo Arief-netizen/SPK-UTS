@@ -1,6 +1,6 @@
 Imam Arief Al Baihaqy_19051397006_D4 MI2019A
 ---
-Dibuat dengan menggunakan framework Laravel
+Program berbasis web dibuat dengan menggunakan framework Laravel
 
 
 ## UseCase Diagram
