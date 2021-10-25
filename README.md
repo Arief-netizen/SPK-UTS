@@ -1,7 +1,7 @@
 Imam Arief Al Baihaqy_19051397006_D4 MI2019A
 ---
-Program ini dibuat dengan menggunakan framework Laravel
----
+Dibuat dengan menggunakan framework Laravel
+
 
 ## UseCase Diagram
 Pemilihan Mahasiswa Berprestasi
